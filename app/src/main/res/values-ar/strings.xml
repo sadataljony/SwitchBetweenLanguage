@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Locale</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمه السر</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="name">اسم</string>
+    <string name="phone">هاتف</string>
+    <string name="address">عنوان</string>
+</resources>

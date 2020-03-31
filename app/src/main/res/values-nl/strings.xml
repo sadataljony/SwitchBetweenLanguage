@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Locale</string>
+    <string name="welcome">Welkom</string>
+    <string name="email">E-mail</string>
+    <string name="password">Wachtwoord</string>
+    <string name="change_language">Wijzig taal</string>
+    <string name="name">Naam</string>
+    <string name="phone">Telefoon</string>
+    <string name="address">Adres</string>
+</resources>

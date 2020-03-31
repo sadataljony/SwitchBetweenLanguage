@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Locale</string>
+    <string name="welcome">Bienvenu</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="change_language">Changer de langue</string>
+    <string name="name">Nom</string>
+    <string name="phone">Téléphone</string>
+    <string name="address">Adresse</string>
+</resources>

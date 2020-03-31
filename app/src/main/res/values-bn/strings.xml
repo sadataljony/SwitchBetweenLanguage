@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Locale</string>
+    <string name="welcome">স্বাগতম</string>
+    <string name="email">ইমেইল</string>
+    <string name="password">পাসওয়ার্ড</string>
+    <string name="change_language">ভাষা পরিবর্তন করুন</string>
+    <string name="name">নাম</string>
+    <string name="phone">ফোন</string>
+    <string name="address">ঠিকানা</string>
+</resources>
